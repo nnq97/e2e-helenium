@@ -44,8 +44,8 @@ It compares **traditional Selenium** automation against **Helenium** to improve 
  ├── behave.ini           # Behave configuration  
  ├── README.md            # This file  
 ```
----
-##🚦 How to Run
+---   
+## 🚦 How to Run
 1️⃣ Clone the Repo
 ```bash
 git clone https://github.com/your-username/your-helenium-behave-project.git
